@@ -1,0 +1,59 @@
+C:\Users\ASUS\Desktop\GAME\start\start\bin\Debug\start.exe.config
+C:\Users\ASUS\Desktop\GAME\start\start\bin\Debug\start.exe
+C:\Users\ASUS\Desktop\GAME\start\start\bin\Debug\start.pdb
+C:\Users\ASUS\Desktop\GAME\start\start\obj\Debug\start.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\GAME\start\start\obj\Debug\start.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Desktop\GAME\start\start\obj\Debug\start.Form1.resources
+C:\Users\ASUS\Desktop\GAME\start\start\obj\Debug\start.Properties.Resources.resources
+C:\Users\ASUS\Desktop\GAME\start\start\obj\Debug\start.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\GAME\start\start\obj\Debug\start.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\GAME\start\start\obj\Debug\start.exe
+C:\Users\ASUS\Desktop\GAME\start\start\obj\Debug\start.pdb
+C:\Users\ASUS\Desktop\GAME\Form1\start\bin\Debug\start.exe.config
+C:\Users\ASUS\Desktop\GAME\Form1\start\bin\Debug\start.exe
+C:\Users\ASUS\Desktop\GAME\Form1\start\bin\Debug\start.pdb
+C:\Users\ASUS\Desktop\GAME\Form1\start\obj\Debug\start.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\GAME\Form1\start\obj\Debug\start.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Desktop\GAME\Form1\start\obj\Debug\start.Form1.resources
+C:\Users\ASUS\Desktop\GAME\Form1\start\obj\Debug\start.Properties.Resources.resources
+C:\Users\ASUS\Desktop\GAME\Form1\start\obj\Debug\start.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\GAME\Form1\start\obj\Debug\start.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\GAME\Form1\start\obj\Debug\start.exe
+C:\Users\ASUS\Desktop\GAME\Form1\start\obj\Debug\start.pdb
+C:\Users\ASUS\Desktop\GAME\Form1\start\obj\Debug\start.Form2.resources
+C:\Users\ASUS\Desktop\Form1\start\bin\Debug\start.exe.config
+C:\Users\ASUS\Desktop\Form1\start\bin\Debug\start.exe
+C:\Users\ASUS\Desktop\Form1\start\bin\Debug\start.pdb
+C:\Users\ASUS\Desktop\Form1\start\obj\Debug\start.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Form1\start\obj\Debug\start.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Desktop\Form1\start\obj\Debug\start.Form1.resources
+C:\Users\ASUS\Desktop\Form1\start\obj\Debug\start.Form2.resources
+C:\Users\ASUS\Desktop\Form1\start\obj\Debug\start.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Form1\start\obj\Debug\start.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\Form1\start\obj\Debug\start.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Form1\start\obj\Debug\start.exe
+C:\Users\ASUS\Desktop\Form1\start\obj\Debug\start.pdb
+F:\Programming\Project Game1\start\bin\Debug\start.exe.config
+F:\Programming\Project Game1\start\bin\Debug\start.exe
+F:\Programming\Project Game1\start\bin\Debug\start.pdb
+F:\Programming\Project Game1\start\obj\Debug\start.csproj.AssemblyReference.cache
+F:\Programming\Project Game1\start\obj\Debug\start.csproj.SuggestedBindingRedirects.cache
+F:\Programming\Project Game1\start\obj\Debug\start.Form1.resources
+F:\Programming\Project Game1\start\obj\Debug\start.Form2.resources
+F:\Programming\Project Game1\start\obj\Debug\start.Properties.Resources.resources
+F:\Programming\Project Game1\start\obj\Debug\start.csproj.GenerateResource.cache
+F:\Programming\Project Game1\start\obj\Debug\start.csproj.CoreCompileInputs.cache
+F:\Programming\Project Game1\start\obj\Debug\start.exe
+F:\Programming\Project Game1\start\obj\Debug\start.pdb
+C:\Users\ASUS\Desktop\Project Game1\start\bin\Debug\start.exe.config
+C:\Users\ASUS\Desktop\Project Game1\start\bin\Debug\start.exe
+C:\Users\ASUS\Desktop\Project Game1\start\bin\Debug\start.pdb
+C:\Users\ASUS\Desktop\Project Game1\start\obj\Debug\start.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Project Game1\start\obj\Debug\start.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Desktop\Project Game1\start\obj\Debug\start.Form1.resources
+C:\Users\ASUS\Desktop\Project Game1\start\obj\Debug\start.Form2.resources
+C:\Users\ASUS\Desktop\Project Game1\start\obj\Debug\start.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Project Game1\start\obj\Debug\start.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\Project Game1\start\obj\Debug\start.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Project Game1\start\obj\Debug\start.exe
+C:\Users\ASUS\Desktop\Project Game1\start\obj\Debug\start.pdb
